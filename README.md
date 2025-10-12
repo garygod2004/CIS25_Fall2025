@@ -1,6 +1,6 @@
-Week 7
+#Week 7
 
-How it works:
+##How it works:
 
 The program creates a dynamic array of Item { std::string name; int id; }.
 
