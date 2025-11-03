@@ -22,4 +22,9 @@ The program allows a user to:
    - `displayBalance()` → prints the current balance to the console  
    - `saveTransaction()` → logs all transactions in `transactions.txt`  
 3. The `main()` function:
-   - Creates a new `Ba
+   - Creates a new `BaankAccount` object  
+   - Makes an initial deposit  
+   - Executes at least two purchases  
+   - Displays the final balance  
+   - Logs all actions to `transactions.txt`  
+
