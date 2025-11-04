@@ -1,7 +1,7 @@
-# 🧮 Module 9: Inventory Management with Arrays
+# Module 9: Inventory Management with Arrays
 
 
-## 📘 Overview
+## Overview
 
 This program allows a user to manage a small inventory by:
 1. Entering the **name** and **quantity** for multiple items.
